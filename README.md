@@ -56,8 +56,10 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
+(i) To find the L and U matrix
 ![Screenshot (18)](https://github.com/tharikasankar/LU-Decomposition/assets/119475507/e54cc40b-5133-4a66-b4b6-53ca0623897e)
+(ii) To find the LU Decomposition of a matrix
+![Screenshot (19)](https://github.com/tharikasankar/LU-Decomposition/assets/119475507/55d0c73d-a347-45a7-a393-0493d7842ce3)
 
 
 ## Result:
